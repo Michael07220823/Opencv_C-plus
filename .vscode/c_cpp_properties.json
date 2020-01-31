@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files/LLVM/bin/gcc.exe",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:/Program Files/LLVM/include",
+                "E:/opencv/build/include/opencv2/**"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/Program Files/LLVM/include",
+                    "E:/opencv/build/include/opencv2/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
